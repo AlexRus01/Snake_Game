@@ -1,0 +1,11 @@
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\bin\Debug\Snake_A_Classic.exe.config
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\bin\Debug\Snake_A_Classic.exe
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\bin\Debug\Snake_A_Classic.pdb
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.csprojAssemblyReference.cache
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.Form1.resources
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.Properties.Resources.resources
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.csproj.GenerateResource.cache
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.csproj.CoreCompileInputs.cache
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.exe
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.pdb
+D:\School\Info\Attttestat\Snake_A_Classic\Snake_A_Classic\obj\Debug\Snake_A_Classic.Generic.resources
